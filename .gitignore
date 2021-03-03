@@ -91,3 +91,4 @@ sw.*
 
 # firebase file
 plugins/firebase.js
+/.firebase/
